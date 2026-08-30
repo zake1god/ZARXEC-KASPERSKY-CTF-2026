@@ -63,6 +63,7 @@ https://youtu.be/461vxC3ZKMc
 ```
 
 The final flag was present in the video's description when viewed through the authenticated browser session.
+<img width="739" height="439" alt="image" src="https://github.com/user-attachments/assets/a408061d-29e5-40c6-ac8c-294e653fa4d3" />
 
 ## Investigation Flow
 
