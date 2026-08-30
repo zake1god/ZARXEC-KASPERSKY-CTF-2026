@@ -4,7 +4,10 @@ Writeups and solutions from **Kaspersky CTF 2026** by team **zarxec**.
 
 ## Team
 
-**zarxec**
+<img width="1109" height="786" alt="zarx-leaderboard" src="https://github.com/user-attachments/assets/2ee33868-76f2-499b-af1c-62ff5be7ca61" />
+<img width="1142" height="757" alt="kasperksy-profile" src="https://github.com/user-attachments/assets/609a66bf-1181-4a46-9018-32470649de88" />
+<img width="1115" height="516" alt="Kaspersky-Ended" src="https://github.com/user-attachments/assets/4e36575f-4b6f-4035-ada2-04cd8980bcb9" />
+
 
 ## Writeups
 
@@ -44,7 +47,6 @@ Writeups and solutions from **Kaspersky CTF 2026** by team **zarxec**.
 
 ```text
 .
-├── README.md
 ├── AI/
 ├── Crypto/
 ├── Forensik/
@@ -52,10 +54,12 @@ Writeups and solutions from **Kaspersky CTF 2026** by team **zarxec**.
 ├── Pwn/
 ├── Reverse/
 ├── Web/
-└── Welcome/
+├── Welcome/
+└── README.md/
 ```
 
 Each challenge directory may contain the writeup, solver/exploit scripts, and supporting files used during the competition.
+
 
 ---
 
