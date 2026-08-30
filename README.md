@@ -65,4 +65,4 @@ Each challenge directory may contain the writeup, solver/exploit scripts, and su
 
 > **Disclaimer:** All content in this repository is intended for educational purposes and documents challenges performed in an authorized CTF environment.
 
-**zarxec — Kaspersky CTF 2026**
+**zarxec | Kaspersky CTF 2026**
